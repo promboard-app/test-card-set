@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "cards": [
+    {
+      "kind": "term",
+      "id": "noir-hard-shadow",
+      "name": "Noir Hard Shadow",
+      "nameKo": "누아르 강한 그림자",
+      "category": "lighting",
+      "slot": "mood-style",
+      "description": "Hard low-key light that cuts the scene with deep blind-shaped shadows.",
+      "descriptionKo": "블라인드 모양의 짙은 그림자가 장면을 가르는 강한 로우키 조명.",
+      "promptSnippet": "hard low-key lighting casting deep venetian blind shadows",
+      "tags": ["noir", "low-key", "shadow"],
+      "image": "cards/noir-hard-shadow.png",
+      "mediaType": "both"
+    },
+    {
+      "kind": "term",
+      "id": "rain-neon-street",
+      "name": "Rain-Soaked Neon Street",
+      "nameKo": "비 젖은 네온 거리",
+      "category": "background",
+      "description": "A wet city street at night reflecting neon signs.",
+      "descriptionKo": "네온 간판이 비친 밤의 젖은 도시 거리.",
+      "promptSnippet": "rain-soaked city street at night reflecting neon signs",
+      "tags": ["night", "city", "rain"],
+      "image": "cards/rain-neon-street.png"
+    },
+    {
+      "kind": "term",
+      "id": "film-grain-35mm",
+      "name": "35mm Film Grain",
+      "nameKo": "35mm 필름 그레인",
+      "category": "texture",
+      "promptSnippet": "visible 35mm film grain",
+      "tags": ["film", "grain"],
+      "image": "cards/film-grain-35mm.png"
+    }
+  ]
+}

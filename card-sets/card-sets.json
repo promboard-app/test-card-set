@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "cardSets": [
+    {
+      "id": "film-noir",
+      "name": "필름 누아르",
+      "description": "이 플러그인의 카드 3장에 앱 기본 카드 '아이 레벨'을 더한 세트.",
+      "cards": [
+        "promboard.test-card-set/noir-hard-shadow",
+        "promboard.test-card-set/rain-neon-street",
+        "promboard.test-card-set/film-grain-35mm",
+        "eye-level"
+      ],
+      "prompt": "A detective in a trench coat waiting under a streetlight",
+      "tags": ["noir", "cinematic"],
+      "thumbnail": "card-sets/film-noir.png",
+      "medium": "image"
+    }
+  ]
+}

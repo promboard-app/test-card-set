@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "promboard.test-card-set",
+  "version": "0.1.0",
+  "name": "필름 누아르 카드 (시험)",
+  "description": "필름 누아르 분위기 전문용어 카드 3장과 카드 세트 1개. 코드가 없는 플러그인의 스키마 검증용 시험 플러그인이다.",
+  "author": "PromBoard",
+  "license": "MIT",
+  "app": ">=0.15.0",
+  "icon": "icon.png",
+  "contents": [
+    "cards",
+    "cardSets"
+  ],
+  "repository": "https://github.com/promboard-app/test-card-set"
+}
